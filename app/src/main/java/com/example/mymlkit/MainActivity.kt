@@ -8,8 +8,6 @@ import android.os.Bundle
 import android.provider.MediaStore
 import android.widget.Button
 import android.widget.ImageView
-import android.widget.TextView
-import com.google.android.material.behavior.SwipeDismissBehavior
 
 private class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
